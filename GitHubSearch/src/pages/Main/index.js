@@ -20,15 +20,19 @@ export default function Main() {
   const [user, setUser] = useState('');
 
   async function loadReposite() {
-    try {
-      const response = await api.get(`${user}/repos`);
+    if (user !== '') {
+      try {
+        const response = await api.get(`${user}/repos`);
 
-      setRepos(response.data);
-      setUser('');
-    } catch (err) {
-      setRepos([]);
-      Alert.alert('Usuário não encontrado!');
-      setUser('');
+        setRepos(response.data);
+        setUser('');
+      } catch (err) {
+        setRepos([]);
+        Alert.alert('Usuário não encontrado!');
+        setUser('');
+      }
+    } else {
+      Alert.alert('Por favor colocar nome de usuário!');
     }
   }
 
