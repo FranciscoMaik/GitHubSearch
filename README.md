@@ -40,11 +40,11 @@ Após isso poderá utilizar um emulador ou o aparelho para ver a apliação, par
 
 - Tela inicial sem informações do usuário:
 
-![tela1](https://user-images.githubusercontent.com/20601076/80827472-67362100-8bba-11ea-8f04-d2231bb93bac.jpeg)
+<img src ="https://user-images.githubusercontent.com/20601076/80827472-67362100-8bba-11ea-8f04-d2231bb93bac.jpeg" alt = "tela1" width = "359" height = "744"/>
 
 - Tela com as informações do usuário carregadas:
 
-![tela2](https://user-images.githubusercontent.com/20601076/80827523-7f0da500-8bba-11ea-97f0-6f932cc83734.jpeg)
+<img src ="https://user-images.githubusercontent.com/20601076/80827523-7f0da500-8bba-11ea-97f0-6f932cc83734.jpeg" alt = "tela2" width = "359" height = "744"/>
 
 - Aplicativo em execução:
 
