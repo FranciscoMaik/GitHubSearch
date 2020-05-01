@@ -40,12 +40,17 @@ Após isso poderá utilizar um emulador ou o aparelho para ver a apliação, par
 
 - Tela inicial sem informações do usuário:
 
-<img src ="https://user-images.githubusercontent.com/20601076/80827472-67362100-8bba-11ea-8f04-d2231bb93bac.jpeg" alt = "tela1" width = "359" height = "744"/>
+<p align="center">
+
+<img src ="https://user-images.githubusercontent.com/20601076/80827472-67362100-8bba-11ea-8f04-d2231bb93bac.jpeg" alt = "tela1" width = "250" height = "500"/>
+
+</p>
 
 - Tela com as informações do usuário carregadas:
-
-<img src ="https://user-images.githubusercontent.com/20601076/80827523-7f0da500-8bba-11ea-97f0-6f932cc83734.jpeg" alt = "tela2" width = "359" height = "744"/>
-
+<p align="center">
+<img src ="https://user-images.githubusercontent.com/20601076/80827523-7f0da500-8bba-11ea-97f0-6f932cc83734.jpeg" alt = "tela2" width = "250" height = "500"/>
+</p>
 - Aplicativo em execução:
-
-![bloggif_5eac61070e071](https://user-images.githubusercontent.com/20601076/80827950-ecb9d100-8bba-11ea-83b7-9d94a5b0b1d5.gif)
+<p align="center">
+<img src = "https://user-images.githubusercontent.com/20601076/80827950-ecb9d100-8bba-11ea-83b7-9d94a5b0b1d5.gif">
+</p>
