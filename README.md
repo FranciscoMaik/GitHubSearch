@@ -20,7 +20,7 @@ Após isso poderá utilizar um emulador ou o aparelho para ver a apliação, par
 
   ou
 
-  > react-native android
+  > react-native run-android
 
 - Segundo para carregar as informações:
 
@@ -32,7 +32,7 @@ Após isso poderá utilizar um emulador ou o aparelho para ver a apliação, par
 
 **Observações**
 
-`Caso rode o comando de instalação (yarn android ou react-native android) e já tiver o aplicativo instalado pode dar conflito, desinstale o aplicativo e rode novamente o comando.`
+`Caso rode o comando de instalação (yarn android ou react-native run-android) e já tiver o aplicativo instalado pode dar conflito, desinstale o aplicativo e rode novamente o comando.`
 
 `Caso rode o comando de carregamento (yarn start ou react-native start) e o aplicativo não carregue as informações na tela, feche o aplicativo e abra novamente se persisti dê um reload apertando R no terminal onde está executando a aplicação`
 
